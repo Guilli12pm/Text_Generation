@@ -8,7 +8,7 @@ The specific QML method used in this project is the Quantum Recurrent Neural Net
 
 To generate text, there are three methods available:
 
-1) Free Fermionic Quantum circuits: A classically simulable quantum method using matchgates.
+1) Free Fermionic Quantum circuit: a classically simulable quantum method using matchgates.
 2) Fully Quantum Circuit: a generic quantum circuit.
 3) Classical Circuit: a generic classical RNN
 
