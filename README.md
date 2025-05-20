@@ -1,4 +1,4 @@
-# Text_Generation
+# Text Generation with Quantum Circuits
 
 This code is used to generate text given an input corpus, using Quantum Machine Learning (QML) Methods.
 
